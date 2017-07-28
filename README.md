@@ -1,2 +1,3 @@
 # Hello-World
-This readme is for 靠北工程師。
+I'm just a SEOer, i usually don't creat things on Github...
+This is for you, init.kobeengineer
